@@ -173,6 +173,7 @@ def main():
 
 	else:
 		st.subheader("About")
+		st.text("Raghav Chadha")
 
 if __name__ == '__main__':
 		main()	
